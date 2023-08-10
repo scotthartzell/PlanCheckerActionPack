@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanCheckerActionPack", "PlanCheckerActionPack.csproj", "{F7D43908-B3B4-434F-A0A8-2D5D0A63C244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7D43908-B3B4-434F-A0A8-2D5D0A63C244}.Debug|x64.ActiveCfg = Debug|x64
+		{F7D43908-B3B4-434F-A0A8-2D5D0A63C244}.Debug|x64.Build.0 = Debug|x64
+		{F7D43908-B3B4-434F-A0A8-2D5D0A63C244}.Release|x64.ActiveCfg = Release|x64
+		{F7D43908-B3B4-434F-A0A8-2D5D0A63C244}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37DE2784-EEA5-4E87-B5F8-8A35B36FD187}
+	EndGlobalSection
+EndGlobal
